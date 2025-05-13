@@ -1,0 +1,14 @@
+# Ignore backend node modules and env file
+Backend/node_modules/
+Backend/.env
+
+# Ignore frontend node modules and build files
+Frontend/node_modules/
+Frontend/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
